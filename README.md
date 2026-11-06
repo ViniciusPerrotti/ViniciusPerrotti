@@ -1,32 +1,17 @@
 
 
-<!-# Olá! Eu sou o Vinicius 👋
+<# Olá! Eu sou o Vinicius
 
-🎓 Estudante de Ciência da Computação
-💻 Em desenvolvimento na área de tecnologia
+Estudante de Ciência da Computação, interessado em programação e tecnologia.
 
-## 🚀 Atualmente estou aprendendo
+## O que estou estudando
 - HTML e CSS
 - Python
 - Lógica de programação
 - Git e GitHub
 
-## 📚 Objetivos
-Desenvolver minhas habilidades em programação
-e construir minha carreira na área de tecnologia.
+## Sobre mim
+Estou no início da minha jornada na programação, aprendendo coisas novas e colocando em prática o que vejo na faculdade. Quero desenvolver meus conhecimentos e criar meus próprios projetos.
 
-## 🔧 Tecnologias
-HTML | CSS | Python | Git-
-**ViniciusPerrotti/ViniciusPerrotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+HTML | CSS | Python | Git | GitHub
